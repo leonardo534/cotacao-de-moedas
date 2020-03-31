@@ -1,0 +1,2 @@
+rootProject.name='Cotação de Moedas'
+include ':app'

@@ -1,12 +1,6 @@
 package com.leonardosilva.cotaodemoedas;
 
 import androidx.appcompat.app.AppCompatActivity;
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
-import retrofit2.Retrofit;
-import retrofit2.converter.gson.GsonConverterFactory;
-
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.text.Editable;

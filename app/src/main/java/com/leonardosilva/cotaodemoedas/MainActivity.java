@@ -20,8 +20,6 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.leonardosilva.cotaodemoedas.api.CotacaoService;
-import com.leonardosilva.cotaodemoedas.model.MoedasModel;
 
 import org.json.JSONException;
 import org.json.JSONObject;
